@@ -1,0 +1,19 @@
+name: s3_bucket
+id: 'ari:cloud:compass:7d7755e1-4eb4-4a68-9975-2a3a2f731db8:component/20e5c4a6-fb10-41c1-be7e-b63245c0418a/367f4cbd-495e-4a7a-96e5-3b7024b6c85c'
+description: null
+configVersion: 1
+typeId: CLOUD_RESOURCE
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/sandboxti/s3_bucket'
+relationships: {}
+labels:
+  - 'source:github'
+customFields: null
+
+# Obtén más información sobre cómo dar formato a compass.yml:
+# https://go.atlassian.com/compass-yml-format
