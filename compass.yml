@@ -1,6 +1,6 @@
 name: s3_bucket
 id: 'ari:cloud:compass:7d7755e1-4eb4-4a68-9975-2a3a2f731db8:component/20e5c4a6-fb10-41c1-be7e-b63245c0418a/367f4cbd-495e-4a7a-96e5-3b7024b6c85c'
-description: null
+description: This is a sample component in Compass.
 configVersion: 1
 typeId: CLOUD_RESOURCE
 ownerId: null
