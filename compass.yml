@@ -3,7 +3,7 @@ id: 'ari:cloud:compass:7d7755e1-4eb4-4a68-9975-2a3a2f731db8:component/20e5c4a6-f
 description: This is a sample component in Compass.
 configVersion: 1
 typeId: CLOUD_RESOURCE
-ownerId: null
+ownerId: 'ari:cloud:teams::team/c06adf72-59bb-419d-be25-167597623391'
 fields:
   tier: 4
 links:
